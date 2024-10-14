@@ -7,7 +7,7 @@
 - [pypermissive](https://github.com/kaliv0/pypermissive) - Validation library modeled after Pydantic
 - [iclean](https://github.com/kaliv0/iclean) - CLI tool for cleaning up unused imports
 - [command-line-file-manager](https://github.com/kaliv0/command-line-file-manager) - CLI tool for scanning and organizing local directories and files
-
+---------------
 - [mini-pandas](https://github.com/kaliv0/mini-pandas) - Custom implementation of <i>'pandas'</i> library
 - [game-of-life-python-cli](https://github.com/kaliv0/game-of-life-python-cli) -  CLI tool for simulating Conway's Game of Life
 
