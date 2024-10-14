@@ -9,8 +9,8 @@
 - [mini-pandas](https://github.com/kaliv0/mini-pandas) - Custom implementation of <i>'pandas'</i> library
 - [command-line-file-manager](https://github.com/kaliv0/command-line-file-manager) - CLI tool for scanning and organizing local directories and files
 
-WIPS:
+wips:
 - [seraphim](https://github.com/kaliv0/seraphim) - Simple REST framework
 - [erelim](https://github.com/kaliv0/erelim) - Simple ORM for sqlite3
-- 
+- [serpix](https://github.com/kaliv0/serpix) - Commonly used Unix commands implemented in Python
 
