@@ -6,5 +6,11 @@
 - [pyrio](https://github.com/kaliv0/pyrio) - Java-inspired Streams library. Facilitates 'functional'-style processing of collections and iterables using fluent APIs
 - [pypermissive](https://github.com/kaliv0/pypermissive) - Validation library modeled after Pydantic
 - [iclean](https://github.com/kaliv0/iclean) - CLI tool for cleaning up unused imports
+- [mini-pandas](https://github.com/kaliv0/mini-pandas) - Custom implementation of <i>'pandas'</i> library
 - [command-line-file-manager](https://github.com/kaliv0/command-line-file-manager) - CLI tool for scanning and organizing local directories and files
+
+WIPS:
+- [seraphim](https://github.com/kaliv0/seraphim) - Simple REST framework
+- [erelim](https://github.com/kaliv0/erelim) - Simple ORM for sqlite3
+- 
 
