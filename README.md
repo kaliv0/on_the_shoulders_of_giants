@@ -1,4 +1,4 @@
-# on_the_shoulders_of_giants
+# On the Shoulders of Giants
 ----------------------------
 ## python
 - [chancleta](https://github.com/kaliv0/chancleta) - Library for creating Command Line Interfaces via configuration files
