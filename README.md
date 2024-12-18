@@ -1,9 +1,10 @@
 # On the Shoulders of Giants
 ----------------------------
 ## python
+- [pyrio](https://github.com/kaliv0/pyrio) - Functional-style Streams API library
+- [aldict](https://github.com/kaliv0/aldict) - Multi-key dictionary
 - [chancleta](https://github.com/kaliv0/chancleta) - Library for creating Command Line Interfaces via configuration files
 - [detox-jar](https://github.com/kaliv0/detox) - Command line automation tool
-- [pyrio](https://github.com/kaliv0/pyrio) - Java-inspired Streams library for 'functional'-style processing of collections and iterables using fluent APIs
 - [pypermissive](https://github.com/kaliv0/pypermissive) - Validation library modeled after Pydantic
 - [iclean](https://github.com/kaliv0/iclean) - CLI tool for cleaning up unused imports
 - [command-line-file-manager](https://github.com/kaliv0/command-line-file-manager) - CLI tool for scanning and organizing local directories and files
