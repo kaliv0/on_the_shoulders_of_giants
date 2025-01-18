@@ -2,7 +2,7 @@
 ----------------------------
 ## python
 - [pyrio](https://github.com/kaliv0/pyrio) - Functional-style Streams API library
-- [fumus](https://github.com/kaliv0/fumus) - Functional musings (based on Pyrio, supports Result pattern; File processing was removed)
+- [fumus](https://github.com/kaliv0/fumus) - Functional musings (based on <i>Pyrio</i>, supports Result pattern etc; File processing is removed)
 - [aldict](https://github.com/kaliv0/aldict) - Multi-key dictionary
 - [chancleta](https://github.com/kaliv0/chancleta) - Library for creating Command Line Interfaces via configuration files
 - [detox-jar](https://github.com/kaliv0/detox) - Command line automation tool
