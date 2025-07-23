@@ -1,4 +1,8 @@
-# On_the_shoulders_of_giants
+<p align="center">
+  <img src="https://github.com/kaliv0/on_the_shoulders_of_giants/blob/main/carawan.jpg?raw=true" width="450" alt="On the shoulders">
+</p>
+
+# On the shoulders of giants
 Recreational recreations of fancy tools for frenzy fools
 ----------------------------
 ## python
