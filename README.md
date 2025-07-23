@@ -1,4 +1,8 @@
-# On_the_shoulders_of_giants
+<p align="center">
+  <img src="https://github.com/kaliv0/on_the_shoulders_of_giants/blob/main/carawan.jpg?raw=true" width="450" alt="On the shoulders">
+</p>
+
+# On the shoulders of giants
 Recreational recreations of fancy tools for frenzy fools
 ----------------------------
 ## python
@@ -20,3 +24,6 @@ Recreational recreations of fancy tools for frenzy fools
 - [serpix](https://github.com/kaliv0/serpix) - Commonly used Unix commands implemented in Python
 - [mini-pandas](https://github.com/kaliv0/mini-pandas) - Custom implementation of <i>pandas</i> library
 - [game-of-life-python-cli](https://github.com/kaliv0/game-of-life-python-cli) - CLI tool for simulating Conway's Game of Life
+----------------------------
+## go
+- [homey](https://github.com/kaliv0/homey) - Terminal-based Clipboard Manager
