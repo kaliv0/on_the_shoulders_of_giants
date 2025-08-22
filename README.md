@@ -8,12 +8,12 @@ Recreational recreations of fancy tools for frenzy fools
 ### python
 - [koi-fish](https://github.com/kaliv0/koi_fish) - CLI task runner & automation tool (language agnostic extended revision of <i>detox-jar</i>)
 - [pyrio](https://github.com/kaliv0/pyrio) - Functional-style Streams API
-- [fumus](https://github.com/kaliv0/fumus) - Functional musings in Python (una parafrasi di concerto sul <i>Pyrio</i>)
 - [aldict](https://github.com/kaliv0/aldict) - Multi-key dictionary
 - [pypermissive](https://github.com/kaliv0/pypermissive) - Validation library, modeled after Pydantic
 - [chancleta](https://github.com/kaliv0/chancleta) - Library for creating Command Line Interfaces via configuration files
 - [detox-jar](https://github.com/kaliv0/detox-jar) - Command line automation tool
 - [command-line-file-manager](https://github.com/kaliv0/command-line-file-manager) - CLI tool for scanning and organizing local directories and files
+- [fumus](https://github.com/kaliv0/fumus) - Functional musings in Python (una parafrasi di concerto sul <i>Pyrio</i>)
 - [iclean](https://github.com/kaliv0/iclean) - CLI tool for cleaning up unused imports
 -----------------------------
 ### go
