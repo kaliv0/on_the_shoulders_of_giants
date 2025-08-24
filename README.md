@@ -17,7 +17,7 @@ Recreational recreations of fancy tools for frenzy fools
 - [iclean](https://github.com/kaliv0/iclean) - CLI tool for cleaning up unused imports
 -----------------------------
 ### go
-- [homey](https://github.com/kaliv0/homey) - Terminal-based Clipboard Manager
+- [homie](https://github.com/kaliv0/homie) - Terminal-based Clipboard Manager
 ----------------------------
 ## WIPs, POCs & crashing stocks:
 
